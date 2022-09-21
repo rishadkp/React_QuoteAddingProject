@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/React_QuoteAddingProject/static/css/main.9a75d6ef.chunk.css",
+    "main.js": "/React_QuoteAddingProject/static/js/main.572c1a9a.chunk.js",
+    "main.js.map": "/React_QuoteAddingProject/static/js/main.572c1a9a.chunk.js.map",
+    "runtime-main.js": "/React_QuoteAddingProject/static/js/runtime-main.3fc5a6b2.js",
+    "runtime-main.js.map": "/React_QuoteAddingProject/static/js/runtime-main.3fc5a6b2.js.map",
+    "static/js/2.cb52471f.chunk.js": "/React_QuoteAddingProject/static/js/2.cb52471f.chunk.js",
+    "static/js/2.cb52471f.chunk.js.map": "/React_QuoteAddingProject/static/js/2.cb52471f.chunk.js.map",
+    "static/css/3.0cdfdbb3.chunk.css": "/React_QuoteAddingProject/static/css/3.0cdfdbb3.chunk.css",
+    "static/js/3.a2ee679f.chunk.js": "/React_QuoteAddingProject/static/js/3.a2ee679f.chunk.js",
+    "static/js/3.a2ee679f.chunk.js.map": "/React_QuoteAddingProject/static/js/3.a2ee679f.chunk.js.map",
+    "static/css/4.5ebd8e16.chunk.css": "/React_QuoteAddingProject/static/css/4.5ebd8e16.chunk.css",
+    "static/js/4.10725049.chunk.js": "/React_QuoteAddingProject/static/js/4.10725049.chunk.js",
+    "static/js/4.10725049.chunk.js.map": "/React_QuoteAddingProject/static/js/4.10725049.chunk.js.map",
+    "static/css/5.ecea14b3.chunk.css": "/React_QuoteAddingProject/static/css/5.ecea14b3.chunk.css",
+    "static/js/5.05f79606.chunk.js": "/React_QuoteAddingProject/static/js/5.05f79606.chunk.js",
+    "static/js/5.05f79606.chunk.js.map": "/React_QuoteAddingProject/static/js/5.05f79606.chunk.js.map",
+    "static/js/6.36dfd035.chunk.js": "/React_QuoteAddingProject/static/js/6.36dfd035.chunk.js",
+    "static/js/6.36dfd035.chunk.js.map": "/React_QuoteAddingProject/static/js/6.36dfd035.chunk.js.map",
+    "index.html": "/React_QuoteAddingProject/index.html",
+    "static/css/3.0cdfdbb3.chunk.css.map": "/React_QuoteAddingProject/static/css/3.0cdfdbb3.chunk.css.map",
+    "static/css/4.5ebd8e16.chunk.css.map": "/React_QuoteAddingProject/static/css/4.5ebd8e16.chunk.css.map",
+    "static/css/5.ecea14b3.chunk.css.map": "/React_QuoteAddingProject/static/css/5.ecea14b3.chunk.css.map",
+    "static/css/main.9a75d6ef.chunk.css.map": "/React_QuoteAddingProject/static/css/main.9a75d6ef.chunk.css.map",
+    "static/js/2.cb52471f.chunk.js.LICENSE.txt": "/React_QuoteAddingProject/static/js/2.cb52471f.chunk.js.LICENSE.txt",
+    "static/js/3.a2ee679f.chunk.js.LICENSE.txt": "/React_QuoteAddingProject/static/js/3.a2ee679f.chunk.js.LICENSE.txt",
+    "static/js/4.10725049.chunk.js.LICENSE.txt": "/React_QuoteAddingProject/static/js/4.10725049.chunk.js.LICENSE.txt",
+    "static/js/5.05f79606.chunk.js.LICENSE.txt": "/React_QuoteAddingProject/static/js/5.05f79606.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3fc5a6b2.js",
+    "static/js/2.cb52471f.chunk.js",
+    "static/css/main.9a75d6ef.chunk.css",
+    "static/js/main.572c1a9a.chunk.js"
+  ]
+}
