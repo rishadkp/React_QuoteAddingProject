@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/React_QuoteAddingProject/static/css/main.9a75d6ef.chunk.css",
-    "main.js": "/React_QuoteAddingProject/static/js/main.572c1a9a.chunk.js",
-    "main.js.map": "/React_QuoteAddingProject/static/js/main.572c1a9a.chunk.js.map",
+    "main.js": "/React_QuoteAddingProject/static/js/main.c0dedebe.chunk.js",
+    "main.js.map": "/React_QuoteAddingProject/static/js/main.c0dedebe.chunk.js.map",
     "runtime-main.js": "/React_QuoteAddingProject/static/js/runtime-main.3fc5a6b2.js",
     "runtime-main.js.map": "/React_QuoteAddingProject/static/js/runtime-main.3fc5a6b2.js.map",
     "static/js/2.cb52471f.chunk.js": "/React_QuoteAddingProject/static/js/2.cb52471f.chunk.js",
@@ -32,6 +32,6 @@
     "static/js/runtime-main.3fc5a6b2.js",
     "static/js/2.cb52471f.chunk.js",
     "static/css/main.9a75d6ef.chunk.css",
-    "static/js/main.572c1a9a.chunk.js"
+    "static/js/main.c0dedebe.chunk.js"
   ]
 }
